@@ -3,13 +3,15 @@
 .container {
   display: flex;
   justify-content: space-around;
-  height: 100vh;
+  height: 50vh;
 }
 
 .distortion {
-  width: 40%;
+  height: auto;
+  width: auto;
 }
 
 .distortion2 {
-  width: 40%;
+  height: auto;
+  width: auto;
 }
